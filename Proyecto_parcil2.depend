@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1666702693 source:c:\users\torales\desktop\src\lab-prog-2\proyecto_parcil2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funcionesGlobales.h"
+	"ClassLogin.h"
+	"menuLogin.h"
+	"configuracion.h"
+
+1666710680 c:\users\torales\desktop\src\lab-prog-2\proyecto_parcil2\classlogin.h
+
+1666710675 c:\users\torales\desktop\src\lab-prog-2\proyecto_parcil2\menulogin.h
+
+1666697578 c:\users\torales\desktop\src\lab-prog-2\proyecto_parcil2\funcionesglobales.h
+
+1666702634 c:\users\torales\desktop\src\lab-prog-2\proyecto_parcil2\configuracion.h
+
+1669868618 source:c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<windows.h>
+	"funcionesGlobales.h"
+	"ClassFecha.h"
+	"ClassEmpresa.h"
+	"menuEmpresa.h"
+	"ClassGenero.h"
+	"menuGeneros.h"
+	"classJuego.h"
+	"menuJuego.h"
+	"configuracion.h"
+	"reportes.h"
+
+1666697578 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\funcionesglobales.h
+
+1669676584 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\classfecha.h
+
+1669772074 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\classempresa.h
+
+1669855609 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\menuempresa.h
+
+1669868694 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\classgenero.h
+
+1669870011 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\menugeneros.h
+
+1669761930 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\classjuego.h
+
+1669774760 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\menujuego.h
+
+1668552396 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\configuracion.h
+
+1669869394 c:\users\torales\desktop\mis documentos\src\lab-prog-2\parcial2lab2\reportes.h
+
